@@ -1,6 +1,6 @@
 <img width="1140" alt="Screenshot 2025-02-09 at 03 17 01" src="https://github.com/user-attachments/assets/126a96d9-734a-4418-9757-f6eb34d7f879" />
 
-## Menu Filter Project - React Fundamental Project 5
+## Menu Filter - React Fundamental Project 5
 
 This project is a simple React application that displays a menu with various items. Users can filter the menu items by categories such as breakfast, lunch, and shakes.
 
