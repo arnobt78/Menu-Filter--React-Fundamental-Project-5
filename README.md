@@ -4,7 +4,7 @@
 
 This project is a simple React application that displays a menu with various items. Users can filter the menu items by categories such as breakfast, lunch, and shakes.
 
-**Online Live:**
+**Online Live:** https://menu-filter-arnob.netlify.app/
 
 ### Getting Started
 
